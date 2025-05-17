@@ -1,4 +1,4 @@
-# Proyecto: Proyecto Aplicativo Final - Ordinario
+# Proyecto Aplicativo Final - Ordinario
 # Integrantes:
 # - Fátima Guadalupe Navas Ramírez
 # - Tonatiuh Morales Rueda
